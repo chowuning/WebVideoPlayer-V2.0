@@ -1,10 +1,10 @@
 # WebVideoPlayer can use to play Youtube video!
 ## 網路影片播放器v1.0 (針對youtube影片專用)!
 
-#更新日程v1.0# 2021/10/7
+# 更新日程v1.0 2021/10/7
 完成基礎播放影片和實現兩個清單和六個功能按鈕。
 
-#更新日程v2.0#
+# 更新日程v2.0
 修正清單:  
 -1.History Count和Like Count清除後不為1的狀況。  
 -2.實現網頁優化(優先執行最高)。  
